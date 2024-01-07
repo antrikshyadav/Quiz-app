@@ -1,4 +1,5 @@
-Quiz Web App Readme
+Quiz Web App 
+
 Welcome to the Quiz Web App! This application is designed to provide an engaging and interactive quiz experience by leveraging a free API to generate random questions and their options.
 
 Features
